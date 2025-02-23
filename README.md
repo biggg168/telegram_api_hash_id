@@ -1,10 +1,11 @@
 # telegram_api_hash_id
-<font face="HEI" size="7">若以下方法无效，可通过直接纸飞机联系我（[@bigjj120](https://t.me/bigjj120)）（双向限制请点https://t.me/chat2bigg_bot），我可以协助你完成申请</font>
+<font face="HEI" size="7">若以下方法无效，可通过直接纸飞机联系我（[@bigjj120](https://t.me/bigjj120)），我可以协助你完成申请</font>
 =======
 
 
 
 当你在申请 Telegram api_id 和api_hash  时遇到错误，无限报错error时，可以按照以下步骤排查并解决：  <br>
+---
 
 检查应用名称唯一性  <br>
  Telegram 要求应用名称全局唯一，若提示错误，可能是名称已被占用。尝试使用更复杂的组合（如添加项目前缀或数字）  <br>
