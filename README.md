@@ -1,5 +1,5 @@
 # telegram_api_hash_id
-<font face="HEI" size="7">若以下方法无效，可通过直接纸飞机联系我（[@bigjj120](https://t.me/bigjj120)），我可以协助你完成申请</font>
+<font face="HEI" size="7">若以下方法无效，可通过直接纸飞机联系我（[@bigjj120](https://t.me/bigjj120)）（双向限制请点https://t.me/chat2bigg_bot），我可以协助你完成申请</font>
 =======
 
 
