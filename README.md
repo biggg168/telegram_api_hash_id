@@ -1,0 +1,2 @@
+# telegram_api_hash_id
+telegram的api_hash，api_id协助申请
